@@ -134,7 +134,7 @@ nav ul li a:hover {
   
   .dropdown:hover .dropbtn {    color: rgb(32, 29, 29);}
 
-  .dropdown-content:hover .dropbtn-content {    color: var(--main-bg-color); background-color: #fff;}
+  .dropdown-content .dropbtn-content :hover { font-style:bolder; font-weight: bold;  }
 
 .container {
     min-height: calc(100vh - 58px - 12vh);
